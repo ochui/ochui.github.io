@@ -28,22 +28,22 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: ochui.princewill
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: ochui_princewill
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: ochui-princewill-patrick
   # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
+  medium: ochui
+  stackoverflow: 5645714
   # telegram: your_username
-  # twitter: your_username
+  twitter: ochui_princewil
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://ochuiprincewill.me
   # youtube: your_username
 
 topics:
@@ -52,6 +52,15 @@ topics:
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
   - name: Web design
+
+  - name: Python
+
+  - name: Django
+
+  - name: PHP
+
+  - name: Laravel
+
 
   - name: Sass
     web_url: https://github.com/topics/sass
